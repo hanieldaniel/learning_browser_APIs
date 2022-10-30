@@ -1,0 +1,7 @@
+.alice{
+    height: 100px;
+    width: 100px;
+    /* background-color: chocolate; */
+    transform-origin: 50% 50%;
+    margin: 50px;
+}
